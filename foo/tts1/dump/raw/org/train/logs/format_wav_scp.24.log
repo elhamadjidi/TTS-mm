@@ -1,0 +1,7 @@
+# pyscripts/audio/format_wav_scp.py --fs 22050 --audio-format wav dump/raw/org/train/logs/wav.24.scp dump/raw/org/train/data/format.24 
+# Started at Tue Jun  7 19:51:49 UTC 2022
+#
+2022-06-07 19:51:50,606 (format_wav_scp:43) INFO: /usr/bin/python3 pyscripts/audio/format_wav_scp.py --fs 22050 --audio-format wav dump/raw/org/train/logs/wav.24.scp dump/raw/org/train/data/format.24
+0it [00:00, ?it/s]1it [00:00,  1.36it/s]2it [00:00,  2.63it/s]3it [00:01,  3.37it/s]4it [00:01,  3.55it/s]5it [00:01,  3.83it/s]5it [00:01,  3.23it/s]
+# Accounting: time=3 threads=1
+# Ended (code 0) at Tue Jun  7 19:51:52 UTC 2022, elapsed time 3 seconds

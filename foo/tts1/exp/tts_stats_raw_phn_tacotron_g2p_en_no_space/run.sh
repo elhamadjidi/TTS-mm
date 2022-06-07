@@ -1,0 +1,1 @@
+./tts.sh --lang en --feats_type raw --fs 22050 --n_fft 1024 --n_shift 256 --token_type phn --cleaner tacotron --g2p g2p_en_no_space --train_config conf/train.yaml --inference_config conf/decode.yaml --train_set train --valid_set valid --test_sets test --srctexts data/train/text --audio_format wav --stage 5 --stop-stage 5 --stage 5 "$@"; exit $?

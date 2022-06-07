@@ -1,0 +1,7 @@
+# pyscripts/audio/format_wav_scp.py --fs 22050 --audio-format wav dump/raw/org/valid/logs/wav.8.scp dump/raw/org/valid/data/format.8 
+# Started at Tue Jun  7 19:52:10 UTC 2022
+#
+2022-06-07 19:52:11,741 (format_wav_scp:43) INFO: /usr/bin/python3 pyscripts/audio/format_wav_scp.py --fs 22050 --audio-format wav dump/raw/org/valid/logs/wav.8.scp dump/raw/org/valid/data/format.8
+0it [00:00, ?it/s]1it [00:00,  1.02it/s]1it [00:00,  1.02it/s]
+# Accounting: time=2 threads=1
+# Ended (code 0) at Tue Jun  7 19:52:12 UTC 2022, elapsed time 2 seconds
